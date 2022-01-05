@@ -1,7 +1,7 @@
 <h1 align="center">TORNADO CASH Proxy Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)🥇</h1>
 <h2 align="center">⭐️ PROXY SNIPER BOT for MAC & WINDOWS ⭐️</h2>
 
-![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
+![alt text](https://github.com/CRYPTOOTRADER/TORNADO-CASH-Proxy-Pancakeswap-Sniper-2022-V1/blob/main/TornadoCash.jpg?raw=true "GIF application")
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -14,12 +14,10 @@
 ## Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
 
 ### The first Binance Smart Chain sniper bot with Honeypot checker!  
-<a href="https://ibb.co/rZZ7k4T"><img src="https://i.ibb.co/nDDgrzZ/Screenshot-2021-12-23-191501.png" alt="Screenshot-2021-12-23-191501" border="0"></a>
-
 
 ### ⭐️First SNIPER BOT for ANDROID & WINDOWS with honeypot detector⭐️
 
-<H3>Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches</H3>
+### Sniper bot that watches when taxes/anti buy are removed from a contract, then quick snipes, with honeypot detector, and also keybinding for fair launches
 
  
 ### Install
