@@ -1,17 +1,17 @@
-# 🏆TORNADO CASH Pancakeswap Sniper (ANDROID WINDOWS MAC LINUX)🥇
+# 🏆TORNADO CASH Proxy Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)🥇
  
-## ⭐️ SNIPER BOT for ANDROID & WINDOWS with honeypot detector ⭐️
+## ⭐️ SNIPER BOT for MAC & WINDOWS ⭐️
 
-<H2>(AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY)</H2>
+
 
 ![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
  
-[![Version](https://img.shields.io/badge/Codename-BlackHat-red.svg?maxAge=259200)]()
+[![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-MAC-orange.svg)]()
-[![Available](https://img.shields.io/badge/Available-ANDROID-orange.svg?maxAge=259200)]()
+[![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
+[![Available](https://img.shields.io/badge/Available-ANDROID-yellow.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
-[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-blue.svg?style=flat)]()
+[![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
  
 
 ## Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
@@ -89,6 +89,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 <H3>WHAT IS UNIQUE TOKEN TRADERS</h3>
 
+- AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY
 - Support ANDROID ,Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 
 - Added multiple DEXs
