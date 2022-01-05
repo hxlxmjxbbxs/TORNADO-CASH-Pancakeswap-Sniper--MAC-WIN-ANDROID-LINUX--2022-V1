@@ -14,7 +14,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
  
  
-<h2 align="center">⭐️ First SNIPER BOT for ANDROID & WINDOWS with honeypot detector ⭐️</h2>
+<h3 align="center">⭐️ First SNIPER BOT for ANDROID & WINDOWS with honeypot detector ⭐️</h3>
 
 #### Tornado Cash protocol is developed based on awesome open source research by Zcash team with the help of amazing Ethereum community
 #### Web3 Pancakeswap Sniper & honeypot detector Take Profit/StopLose bot written in python3, For ANDROID WIN MAC & LINUX
