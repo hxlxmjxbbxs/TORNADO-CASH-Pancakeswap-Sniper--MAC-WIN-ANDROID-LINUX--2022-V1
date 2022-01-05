@@ -83,6 +83,7 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 <H3>WHAT IS UNIQUE TOKEN TRADERS</h3>
 
+- fully decentralized protocol for private transactions
 - AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY
 - Support ANDROID ,Windows 10 ,Linux and Mac OS
 - Add uniswap V3 & pancakeswap v2 
