@@ -95,4 +95,4 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 
 
 ## Trailing-Stop-Loss:
-<img src="https://i.ytimg.com/vi/dZFb0-fwqOk/maxresdefault.jpg" height="400">
+<img src="http://www.financial-spread-betting.com/community/wp-content/uploads/2011/11/trailing-stop-buy.jpg" height="400">
