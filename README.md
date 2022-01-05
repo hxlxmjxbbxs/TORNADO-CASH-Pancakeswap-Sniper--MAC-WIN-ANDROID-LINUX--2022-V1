@@ -1,15 +1,12 @@
-# 🏆TORNADO CASH Proxy Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)🥇
- 
-## ⭐️ SNIPER BOT for MAC & WINDOWS ⭐️
-
-
+<h1 align="center">TORNADO CASH Proxy Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)🥇</h1>
+<h2 align="center">⭐️ PROXY SNIPER BOT for MAC & WINDOWS ⭐️</h2>
 
 ![alt text](https://github.com/META-HYDRA/Pancakeswap-SNIPER-with-HONEYPOT-detector/blob/main/TOKENRADER.jpg?raw=true "GIF application")
  
 [![Version](https://img.shields.io/badge/Codename-BlackHat-blue.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-MAC-red.svg)]()
-[![Available](https://img.shields.io/badge/Available-ANDROID-yellow.svg?maxAge=259200)]()
+[![Available](https://img.shields.io/badge/Available-MAC-yellow.svg?maxAge=259200)]()
 [![Documentation](https://img.shields.io/badge/TORNADO-CASH-red.svg?maxAge=259200)]()
 [![Contributions Welcome](https://img.shields.io/badge/Type-FREE-green.svg?style=flat)]()
  
