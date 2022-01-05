@@ -81,8 +81,6 @@ https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Acc
 * = require every time its runs!
 ```
 
-<a href="https://ibb.co/9v4txdp"><img src="https://i.ibb.co/n01CXKw/1200px-Raider-logo-svg.png" alt="1200px-Raider-logo-svg" border="0"></a>
-
 <H3>WHAT IS UNIQUE TOKEN TRADERS</h3>
 
 - AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY
