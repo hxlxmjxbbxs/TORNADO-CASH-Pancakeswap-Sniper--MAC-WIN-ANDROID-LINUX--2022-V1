@@ -1,7 +1,10 @@
-<h2 align="center">TORNADO CASH Proxy Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)</h2>
-<h3 align="center">⭐️ A fully decentralized protocol for private transactions ⭐️</h3>
+<h2 align="center">TORNADO CASH Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)</h2>
+<h3 align="center">⭐️ A fully decentralized protocol for private and safe transactions ⭐️</h3>
 
 <h3 align="center"> AUTO DOWNLOAD PROXY AND UPDATE SNIPER BOT </h3>
+
+<h3 align="center"> AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY </h3>
+
 
 
 ![alt text](https://github.com/CRYPTOOTRADER/TORNADO-CASH-Proxy-Pancakeswap-Sniper-2022-V1/blob/main/TornadoCash.jpg?raw=true "GIF application")
