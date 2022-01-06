@@ -1,6 +1,6 @@
 <h2 align="center">TORNADO CASH Pancakeswap Sniper BOT 2022-V1 (MAC WINDOWS ANDROID LINUX)</h2>
 <h3 align="center">⭐️ A fully decentralized protocol for private and safe transactions ⭐️</h3>
-
+ 
 <h3 align="center"> AUTO DOWNLOAD PROXY AND UPDATE SNIPER BOT </h3>
 
 <h3 align="center"> AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY </h3>
