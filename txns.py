@@ -1,7 +1,7 @@
 from web3 import Web3
 import json
 from style import style
-
+ 
 
 class TXN():
     def __init__(self, token_address, quantity):
